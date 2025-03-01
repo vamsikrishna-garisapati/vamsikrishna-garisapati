@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Vamsi Krishna
 =====================================================================================================================================
 
-FullStack Developer
+Full Stack Developer
 -------------------
 
 * 🌍  I'm based in Hyderabad, Telangana, India
@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/vamsi_krishna15?logo=twitter&style=fo
 ### Badges
 
 <a href="https://github.com/vamsikrishna-garisapati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna-garisapati&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+![LeetCode Stats](https://leetcard.jacoblin.cool/vamsikrishna-garisapati?theme=dark&font=Average%20Sans&ext=heatmap)
 <!--
 **vamsikrishna-garisapati/vamsikrishna-garisapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
