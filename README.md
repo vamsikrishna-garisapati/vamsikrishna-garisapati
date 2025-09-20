@@ -6,7 +6,6 @@ Full Stack Developer
 
 * 🌍  I'm based in Hyderabad, Telangana, India
 * ✉️  You can contact me at [vamsikrishna.garisapati@gmail.com](mailto:vamsikrishna.garisapati@gmail.com)
-* 🧠  I'm learning a new framework
 * 🤝  I'm open to collaborating on Interesting projects
 
 <a href="https://www.x.com/vamsi_krishna15" target="_blank" rel="noreferrer"><img
