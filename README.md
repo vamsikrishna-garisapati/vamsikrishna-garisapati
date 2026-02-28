@@ -21,10 +21,10 @@ src="https://img.shields.io/twitter/follow/vamsi_krishna15?logo=twitter&style=fo
 
 <p align="left"> <a href="https://www.github.com/vamsikrishna-garisapati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/vamsikrishna-garisapati" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/vamsi_krishna15" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a></p>
 
+<!--
 ### Badges
 
-<!-- GitHub Top Languages Card -->
-<!-- Displays the top languages used in repositories -->
+GitHub Top Languages Card
 <a href="https://github.com/vamsikrishna-garisapati" align="left">
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna-garisapati&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" 
@@ -32,20 +32,16 @@ src="https://img.shields.io/twitter/follow/vamsi_krishna15?logo=twitter&style=fo
   />
 </a>
 
-<!-- LeetCode Stats Card -->
-<!-- Shows LeetCode profile stats including heatmap -->
+LeetCode Stats Card
 <img 
   src="https://leetcard.jacoblin.cool/vamsikrishna-garisapati?theme=dark&font=Average%20Sans&ext=heatmap" 
   alt="LeetCode Stats" 
 />
 
-<!--
-Below section is GitHub's default profile README template.
-This repository is special because the README.md appears on your GitHub profile page.
-You can customize it with personal information.
+Default GitHub Profile README Template
 
-**vamsikrishna-garisapati/vamsikrishna-garisapati** is a ✨ special ✨ repository 
-because its `README.md` (this file) appears on your GitHub profile.
+**vamsikrishna-garisapati/vamsikrishna-garisapati** is a special repository 
+because its README.md (this file) appears on your GitHub profile.
 
 Suggested sections you can fill:
 
