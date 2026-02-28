@@ -23,12 +23,31 @@ src="https://img.shields.io/twitter/follow/vamsi_krishna15?logo=twitter&style=fo
 
 ### Badges
 
-<a href="https://github.com/vamsikrishna-garisapati" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna-garisapati&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-![LeetCode Stats](https://leetcard.jacoblin.cool/vamsikrishna-garisapati?theme=dark&font=Average%20Sans&ext=heatmap)
-<!--
-**vamsikrishna-garisapati/vamsikrishna-garisapati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- GitHub Top Languages Card -->
+<!-- Displays the top languages used in repositories -->
+<a href="https://github.com/vamsikrishna-garisapati" align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsikrishna-garisapati&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=64748b&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" 
+    alt="Top Languages" 
+  />
+</a>
 
-Here are some ideas to get you started:
+<!-- LeetCode Stats Card -->
+<!-- Shows LeetCode profile stats including heatmap -->
+<img 
+  src="https://leetcard.jacoblin.cool/vamsikrishna-garisapati?theme=dark&font=Average%20Sans&ext=heatmap" 
+  alt="LeetCode Stats" 
+/>
+
+<!--
+Below section is GitHub's default profile README template.
+This repository is special because the README.md appears on your GitHub profile page.
+You can customize it with personal information.
+
+**vamsikrishna-garisapati/vamsikrishna-garisapati** is a ✨ special ✨ repository 
+because its `README.md` (this file) appears on your GitHub profile.
+
+Suggested sections you can fill:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
