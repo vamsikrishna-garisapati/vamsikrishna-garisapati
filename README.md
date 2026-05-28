@@ -1,254 +1,131 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0f172a,50:2563eb,100:38bdf8&text=Vamsi%20Krishna%20Garisapati&fontSize=42&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20FastAPI%20%7C%20DRF&descAlignY=58&animation=fadeIn" alt="Vamsi Krishna Garisapati - Full Stack Developer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0f172a,50:1d4ed8,100:0ea5e9&text=Vamsi%20Krishna%20Garisapati&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=57&animation=fadeIn&fontColor=ffffff" alt="Vamsi Krishna Garisapati — Full Stack Developer" />
 
-# 👋 Hey, I'm Vamsi Krishna
-
-### Full Stack Developer building scalable SaaS products, APIs, dashboards, and AI-powered web applications.
-
-**React.js • Next.js • TypeScript • FastAPI • Django REST Framework • PostgreSQL • Supabase • Redis**
-
-<p>
-  <a href="https://github.com/vamsikrishna-garisapati">
-    <img src="https://img.shields.io/github/followers/vamsikrishna-garisapati?label=Followers&style=for-the-badge&logo=github" alt="GitHub followers" />
-  </a>
-  <a href="https://github.com/vamsikrishna-garisapati">
-    <img src="https://img.shields.io/github/stars/vamsikrishna-garisapati?affiliations=OWNER&style=for-the-badge&logo=github" alt="GitHub stars" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=vamsikrishna-garisapati&style=for-the-badge&color=blue" alt="Profile views" />
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/vamsikrishna-garisapati">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="mailto:vamsikrishna.garisapati@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" alt="Email" />
-  </a>
-  <a href="https://mockarch.in">
-    <img src="https://img.shields.io/badge/Live_Project-MockArch-38bdf8?style=for-the-badge&logo=vercel" alt="MockArch" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsikrishna-garisapati)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vamsikrishna.garisapati@gmail.com)
+[![MockArch](https://img.shields.io/badge/MockArch-Live_Project-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://mockarch.in)
+[![Profile Views](https://komarev.com/ghpvc/?username=vamsikrishna-garisapati&style=flat-square&color=1d4ed8)](https://github.com/vamsikrishna-garisapati)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## About
 
-I am a **Full Stack Developer** with production experience building scalable web applications, SaaS products, REST APIs, dashboards, authentication systems, payment flows, and AI-powered workflows.
+Full Stack Developer with production experience building scalable web applications, SaaS platforms, REST APIs, and AI-powered workflows. I work across the full product stack — from UI architecture and component systems to backend APIs, database design, caching, and deployment.
 
-I enjoy working across the full product stack — from clean frontend architecture and reusable UI systems to backend APIs, database design, caching, deployment, and performance optimization.
-
-```ts
-const vamsi = {
-  role: "Full Stack Developer",
-
-  experience: "Nearly 1 year of production experience",
-
-  location: "Hyderabad, India",
-
-  currentWork: [
-    "Building production modules with Next.js and Django REST Framework",
-    "Developing secure REST APIs with role-based access control",
-    "Optimizing frontend performance and Core Web Vitals",
-    "Improving backend performance with caching and database optimization"
-  ],
-
-  impact: {
-    databaseLoadReduction: "40%",
-    lighthouseScore: "95+",
-    productionBugsFixed: "25+",
-    platformScale: "5,000+ students and 100+ mentors"
-  },
-
-  interests: [
-    "Full Stack Engineering",
-    "SaaS Development",
-    "System Design",
-    "AI-Powered Applications",
-    "Performance Optimization",
-    "Scalable Architecture"
-  ],
-
-  funFact:
-    "I love converting complex workflows into clean, scalable, and user-friendly web experiences."
-};
-```
+Currently building at **10000 Coders**, working on a platform serving 5,000+ students and 100+ mentors.
 
 ---
 
-## 🧠 What I Do
+## Production Experience
 
-- 🚀 Build full-stack web applications using **React.js, Next.js, FastAPI, DRF, PostgreSQL, and Supabase**
-- 🔐 Develop secure APIs with authentication, authorization, protected routes, and RBAC
-- ⚡ Improve frontend performance using code splitting, lazy loading, image optimization, and Core Web Vitals tuning
-- 🧩 Design reusable components, clean UI systems, and scalable frontend architecture
-- 🗄️ Work with PostgreSQL, Supabase, Redis caching, server-side data flows, and database optimization
-- 🤖 Integrate AI APIs such as Google Gemini into real-world product workflows
-- 💳 Build subscription and payment flows using Razorpay
+### Full Stack Developer — [10000 Coders](https://github.com/10000Coders)
+**July 2025 – Present · Hyderabad, India**
 
----
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,vite" alt="Frontend technologies" />
-
-### ⚙️ Backend & APIs
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,django,nodejs" alt="Backend technologies" />
-
-### 🗄️ Database, Cloud & Storage
-
-<img src="https://skillicons.dev/icons?i=postgres,supabase,redis,firebase" alt="Database and cloud technologies" />
-
-### 🛠️ Tools & Deployment
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,cloudflare,vscode" alt="Tools and DevOps technologies" />
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-### 🧠 MockArch — AI-Powered System Design Simulator
-
-**Live:** [mockarch.in](https://mockarch.in)
-
-**Tech Stack:** React 19, TypeScript, TanStack Start, FastAPI, Python, Supabase, Google Gemini API, Razorpay, Cloudflare Pages
-
-MockArch is a full-stack SaaS platform for practicing system design through interactive architecture building, AI feedback, traffic simulation, and subscription-based usage.
-
-**Highlights:**
-
-- Built a drag-and-drop architecture canvas for system design practice
-- Added **20+ automated checks** for SPOFs, redundancy gaps, and queue misconfigurations
-- Created traffic simulation to visualize request flow and detect bottlenecks
-- Integrated **Google Gemini AI** for system design feedback
-- Added Razorpay Free/Pro subscriptions with server-side usage limits
-- Implemented Supabase RLS for secure user-level data isolation
-
----
-
-### 💼 ProHire Networks — Placement Platform Web App
-
-**Live:** [prohirenetworks.com](https://www.prohirenetworks.com)
-
-**Tech Stack:** Next.js App Router, React, Supabase, Tailwind CSS, TanStack Query, Zustand, Razorpay
-
-ProHire Networks is a placement platform with job listings, applications, onboarding, profiles, dashboards, and mock interview booking workflows.
-
-**Highlights:**
-
-- Built jobs, applications, dashboard, onboarding, profile, and mock interview modules
-- Implemented Supabase Auth and protected routing
-- Added user-specific data access and server-side workflows
-- Integrated Razorpay payments
-- Improved client/server state handling using TanStack Query and Zustand
-
----
-
-## 💼 Production Experience
-
-### Full Stack Developer — 10000 Coders
-
-**July 2025 - Present | Hyderabad, India**
-
-- Built production modules for onboarding, learning resources, certificates, feedback, ratings, and placement tracking
+- Built production modules for onboarding, learning resources, certificates, feedback, and placement tracking
 - Developed secure REST APIs with role-based access control for student, mentor, and admin workflows
-- Reduced database load by **40%** using Redis caching on high-traffic APIs
-- Achieved **95+ Lighthouse scores** through Core Web Vitals improvements
-- Optimized frontend performance using code splitting, lazy loading, and Next.js Image optimization
-- Built storage workflows for profile images, videos, and certificates with cleanup logic
-- Resolved **25+ production issues** across Student and Mentor UIs
-- Contributed to Agile sprints, code reviews, and deployments
+- Reduced database load by **40%** using Redis caching on high-traffic endpoints
+- Achieved **95+ Lighthouse scores** through Core Web Vitals and rendering optimizations
+- Resolved **25+ production issues** across live student and mentor interfaces
+- Contributed across Agile sprints, code reviews, and production deployments
 
 ---
 
-## 🔥 GitHub Streak
+## Featured Projects
+
+### MockArch — AI-Powered System Design Simulator
+**[mockarch.in](https://mockarch.in)** · React 19, TypeScript, TanStack Start, FastAPI, Supabase, Google Gemini, Razorpay
+
+A full-stack SaaS platform for practising system design through interactive architecture building, AI feedback, and traffic simulation.
+
+- Drag-and-drop architecture canvas with **20+ automated checks** for SPOFs and misconfigurations
+- Google Gemini integration for AI-driven design feedback
+- Traffic simulation to visualize request flow and detect bottlenecks
+- Razorpay Free/Pro subscription flows with server-side usage enforcement
+- Supabase RLS for secure, user-level data isolation
+
+---
+
+### ProHire Networks — Placement Platform
+**[prohirenetworks.com](https://www.prohirenetworks.com)** · Next.js App Router, Supabase, TanStack Query, Zustand, Razorpay
+
+A placement platform with job listings, applications, onboarding, dashboards, and mock interview booking.
+
+- Built jobs, applications, dashboard, onboarding, profile, and interview modules end-to-end
+- Supabase Auth with protected routing and user-specific data access
+- Razorpay payment integration for subscription flows
+- State management with TanStack Query and Zustand
+
+---
+
+## Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+**Backend & APIs**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+**Databases & Cloud**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+**Tools & DevOps**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=vamsikrishna-garisapati&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=vamsikrishna-garisapati&hide_border=true&background=0f172a&stroke=1d4ed8&ring=0ea5e9&fire=0ea5e9&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=94a3b8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
 
 </div>
 
 ---
 
-## 🏆 Key Achievements
+## Currently Exploring
 
-- ⚡ Reduced backend database load by **40%** using Redis caching
-- 🚀 Achieved **95+ Lighthouse performance scores**
-- 🛠️ Fixed **25+ production issues** across real user-facing platforms
-- 👥 Worked on a platform serving **5,000+ students and 100+ mentors**
-- 🤖 Built an AI-powered system design simulator with Google Gemini integration
-- 💳 Integrated Razorpay payments and subscription-based usage flows
-- 🔐 Implemented authentication, protected routing, RBAC, and user-specific data access
-- 🧩 Built reusable frontend components and scalable API workflows
+- Advanced system design and distributed architecture patterns
+- Backend performance and scalable API design
+- AI integration patterns in production applications
+- Open source contributions
 
 ---
 
-## 📚 Currently Learning
+## Connect
 
-- Advanced Next.js Architecture
-- Full Stack System Design
-- Backend Architecture
-- Scalable API Design
-- Distributed Systems Basics
-- AI Integration Patterns
-- Performance Optimization Techniques
-
----
-
-## 🎯 2026 Goals
-
-- Build more production-grade SaaS products
-- Improve system design and backend architecture skills
-- Contribute to open-source projects
-- Write technical blogs on full-stack engineering
-- Build tools that solve real developer and business problems
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://linkedin.com/in/vamsikrishna-garisapati">
-  <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/vamsikrishna-garisapati">
-  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:vamsikrishna.garisapati@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Email" />
-</a>
-
-</div>
-
----
-
-## 💡 Philosophy
-
-> Build clean.  
-> Build scalable.  
-> Build for real users.
+- **LinkedIn:** [linkedin.com/in/vamsikrishna-garisapati](https://linkedin.com/in/vamsikrishna-garisapati)
+- **Email:** [vamsikrishna.garisapati@gmail.com](mailto:vamsikrishna.garisapati@gmail.com)
+- **GitHub:** [github.com/vamsikrishna-garisapati](https://github.com/vamsikrishna-garisapati)
 
 ---
 
 <div align="center">
 
-## ⭐ Thanks for Visiting My Profile!
-
-If you like my work, feel free to connect, collaborate, or follow my journey 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0f172a,50:2563eb,100:38bdf8" alt="Footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:0f172a,50:1d4ed8,100:0ea5e9" alt="Footer" />
 
 </div>
