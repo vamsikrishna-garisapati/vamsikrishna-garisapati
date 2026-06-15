@@ -22,7 +22,7 @@ Currently building at **10000 Coders**, working on a platform serving 5,000+ stu
 ## Production Experience
 
 ### Full Stack Developer — [10000 Coders](https://github.com/10000Coders)
-**July 2025 – Present · Hyderabad, India**
+**July 2024 – Present · Hyderabad, India**
 
 - Built production modules for onboarding, learning resources, certificates, feedback, and placement tracking
 - Developed secure REST APIs with role-based access control for student, mentor, and admin workflows
