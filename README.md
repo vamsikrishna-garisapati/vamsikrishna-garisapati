@@ -32,34 +32,6 @@ Currently building at **10000 Coders**, working on a platform serving 5,000+ stu
 - Contributed across Agile sprints, code reviews, and production deployments
 
 ---
-
-## Featured Projects
-
-### MockArch — AI-Powered System Design Simulator
-**[mockarch.in](https://mockarch.in)** · React 19, TypeScript, TanStack Start, FastAPI, Supabase, Google Gemini, Razorpay
-
-A full-stack SaaS platform for practising system design through interactive architecture building, AI feedback, and traffic simulation.
-
-- Drag-and-drop architecture canvas with **20+ automated checks** for SPOFs and misconfigurations
-- Google Gemini integration for AI-driven design feedback
-- Traffic simulation to visualize request flow and detect bottlenecks
-- Razorpay Free/Pro subscription flows with server-side usage enforcement
-- Supabase RLS for secure, user-level data isolation
-
----
-
-### ProHire Networks — Placement Platform
-**[prohirenetworks.com](https://www.prohirenetworks.com)** · Next.js App Router, Supabase, TanStack Query, Zustand, Razorpay
-
-A placement platform with job listings, applications, onboarding, dashboards, and mock interview booking.
-
-- Built jobs, applications, dashboard, onboarding, profile, and interview modules end-to-end
-- Supabase Auth with protected routing and user-specific data access
-- Razorpay payment integration for subscription flows
-- State management with TanStack Query and Zustand
-
----
-
 ## Tech Stack
 
 **Frontend**
