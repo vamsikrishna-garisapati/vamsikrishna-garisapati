@@ -4,7 +4,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/vamsikrishna-garisapati)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vamsikrishna.garisapati@gmail.com)
-[![MockArch](https://img.shields.io/badge/MockArch-Live_Project-0ea5e9?style=flat-square&logo=vercel&logoColor=white)](https://mockarch.in)
 [![Profile Views](https://komarev.com/ghpvc/?username=vamsikrishna-garisapati&style=flat-square&color=1d4ed8)](https://github.com/vamsikrishna-garisapati)
 
 </div>
